@@ -8,3 +8,6 @@ supported_apstra_versions:
   - 6.0.0
   - 6.1.0
   - 6.2.0
+tags:
+  type: Configuration
+  purpose: Analytics
